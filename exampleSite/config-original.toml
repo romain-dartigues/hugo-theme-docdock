@@ -3,3 +3,4 @@ publishDir = "public/original"
 [params]
 themeStyle = "original"
 themeVariant = "blue"
+themeFavicon = "images/favicon.png"
